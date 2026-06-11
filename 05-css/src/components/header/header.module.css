@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    background-color: pink;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+}
+
+.btn {
+    background-color: yellow;
+    padding: 10px;
+    border-radius: 10px;
+}

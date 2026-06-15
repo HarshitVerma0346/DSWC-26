@@ -1,6 +1,6 @@
-# React Project
+# React Projects
 
-A React application built with modern frontend tools and best practices.
+React applications built with modern frontend tools and best practices.
 
 ## 🚀 Features
 
